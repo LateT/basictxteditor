@@ -1,0 +1,10 @@
+C:\Users\lat3g\source\repos\harjoitustyö\harjoitustyö\bin\Debug\harjoitustyö.exe.config
+C:\Users\lat3g\source\repos\harjoitustyö\harjoitustyö\bin\Debug\harjoitustyö.exe
+C:\Users\lat3g\source\repos\harjoitustyö\harjoitustyö\bin\Debug\harjoitustyö.pdb
+C:\Users\lat3g\source\repos\harjoitustyö\harjoitustyö\obj\Debug\harjoitustyö.csprojAssemblyReference.cache
+C:\Users\lat3g\source\repos\harjoitustyö\harjoitustyö\obj\Debug\harjoitustyö.Form1.resources
+C:\Users\lat3g\source\repos\harjoitustyö\harjoitustyö\obj\Debug\harjoitustyö.Properties.Resources.resources
+C:\Users\lat3g\source\repos\harjoitustyö\harjoitustyö\obj\Debug\harjoitustyö.csproj.GenerateResource.cache
+C:\Users\lat3g\source\repos\harjoitustyö\harjoitustyö\obj\Debug\harjoitustyö.csproj.CoreCompileInputs.cache
+C:\Users\lat3g\source\repos\harjoitustyö\harjoitustyö\obj\Debug\harjoitustyö.exe
+C:\Users\lat3g\source\repos\harjoitustyö\harjoitustyö\obj\Debug\harjoitustyö.pdb
